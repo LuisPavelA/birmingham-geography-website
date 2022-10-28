@@ -1,1 +1,3 @@
-"# birmingham-geography-website" 
+# Birmingham
+
+### The beauty of Birmingham
