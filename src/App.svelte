@@ -39,7 +39,7 @@
         Bullring
       </h1>
       <p class='text-white text-2xl mb-4'>
-        The Bullring is a shopping area and the area has been an important part of Birmingham since the Middle ages. Two shopping centers have been built in this area. The most recent one "Bullring" can be seen in this image. The Ballring was the busiest in the United Kingdom in 2004 at 36.5 million visitors.
+        The Bullring is a shopping area and the area has been an important part of Birmingham since the Middle ages. Two shopping centers have been built in this area. The most recent one "Bullring" can be seen in this image. The Bullring was the busiest in the United Kingdom in 2004 at 36.5 million visitors.
       </p>
     </div>
     <div class='md:ml-20'>
