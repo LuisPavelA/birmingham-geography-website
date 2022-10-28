@@ -53,11 +53,45 @@
     </div>
     <div class='md:w-6/12 w-full'>
       <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
-        The Birmingham Libary
+        The Birmingham Library
       </h1>
       <p class='text-white text-2xl mb-4'>
-        Here you can find collections of archives, photographs and rare books. There is a state-of-the-art gallery about space.
+        Here you can find collections of archives, photographs and rare books. There is a state-of-the-art gallery about space. The library received 2 million visits in 2015 and it was the most visited tourist attraction outside of London in the UK.
       </p>
     </div>
   </div>
+
+  <div class='p-24 md:flex justify-center items-center'>
+    <div class='md:w-6/12 w-full'>
+      <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
+        Cadbury's Chocolate Factory
+      </h1>
+      <p class='text-white text-2xl mb-4'>
+        Located in Bournville, this factory is open to visitors and here you can see the process of making the famous Cardbury chocolate!
+      </p>
+    </div>
+    <div class='md:ml-20'>
+      <img src="/cadbury-factory.jpg" alt="Playa" class="rounded-lg h-96" />
+    </div>
+  </div>
+
+  <div class='p-24 md:flex justify-center items-center'>
+    <div class='md:mr-20'>
+      <img src="/birmingham-canals.jpg" alt="Playa" class="rounded-lg h-96" />
+    </div>
+    <div class='md:w-6/12 w-full'>
+      <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
+        Canals
+      </h1>
+      <p class='text-white text-2xl mb-4'>
+        Birmingham has 35 miles of canals which is more than Venice.These canals were crucial in the Industrial Revolution because they were used to transport goods such as coal, iron and other heavy goods. These canals were built in the 1700s and 1800s.
+      </p>
+    </div>
+  </div>
+  <footer class='p-4 align-center items-center text-center bg-black'>
+    <img src="/gearz.png" alt="Gearz Logo" class="h-24 inline my-5">
+    <a href="https://twitter.com/GearzTeam" target="_blank" rel="noreferrer">
+      <h1 class='text-white text-3xl mb-5 font-bold'>Made by Gearz Studios</h1>
+    </a>
+  </footer>
 </main>
