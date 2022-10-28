@@ -67,7 +67,7 @@
         Cadbury's Chocolate Factory
       </h1>
       <p class='text-white text-2xl mb-4'>
-        Located in Bournville, this factory is open to visitors and here you can see the process of making the famous Cardbury chocolate!
+        Located in Bournville, this factory is open to visitors and here you can see the process of making the famous Cadbury chocolate!
       </p>
     </div>
     <div class='md:ml-20'>
