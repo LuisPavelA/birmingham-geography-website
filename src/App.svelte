@@ -2,6 +2,62 @@
   import Banner from "./lib/Banner.svelte"
 </script>
 
-<main>
+<main class="bg-[#080808]">
   <Banner></Banner>
+  
+  <div class='p-24 md:flex justify-center items-center'>
+    <div class='md:w-6/12 w-full'>
+      <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
+        Jewellery Quarter
+      </h1>
+      <p class='text-white text-2xl mb-4'>
+        The Jewellery Quarter is an area in Birmingham located in the north-west of the Birmingham City Centre, it has 19,000 people that call this place their home. It is an area that is crucial for the jewellery trade in the UK and Europe. Here 40% of all of the jewellery in the UK is produced and it has the highest concentration of jewellery business in Europe. 
+      </p>
+    </div>
+    <div class='md:ml-20'>
+      <img src="/jewellery-quarter.jpg" alt="Playa" class="rounded-lg" />
+    </div>
+  </div>
+
+  <div class='p-24 md:flex justify-center items-center'>
+    <div class='md:mr-20'>
+      <img src="/balti-triangle.png" alt="Playa" class="rounded-lg h-96" />
+    </div>
+    <div class='md:w-6/12 w-full'>
+      <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
+        Balti Triangle
+      </h1>
+      <p class='text-white text-2xl mb-4'>
+        The Balti Triangle is the birthplace of the "balti". The Balti Triangle is located in the south of the Birmingham City Centre. Here you can find the oldest Balti restaurants in Britain! In the Balti Triangle you will be able to see the highest concentration of Balti restaurants in the whole of Birmingham.
+      </p>
+    </div>
+  </div>
+
+  <div class='p-24 md:flex justify-center items-center'>
+    <div class='md:w-6/12 w-full'>
+      <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
+        Bullring
+      </h1>
+      <p class='text-white text-2xl mb-4'>
+        The Bullring is a shopping area and the area has been an important part of Birmingham since the Middle ages. Two shopping centers have been built in this area. The most recent one "Bullring" can be seen in this image. The Ballring was the busiest in the United Kingdom in 2004 at 36.5 million visitors.
+      </p>
+    </div>
+    <div class='md:ml-20'>
+      <img src="/bullring.jpg" alt="Playa" class="rounded-lg h-96" />
+    </div>
+  </div>
+
+  <div class='p-24 md:flex justify-center items-center'>
+    <div class='md:mr-20'>
+      <img src="/birmingham-library.jpg" alt="Playa" class="rounded-lg h-96" />
+    </div>
+    <div class='md:w-6/12 w-full'>
+      <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
+        The Birmingham Libary
+      </h1>
+      <p class='text-white text-2xl mb-4'>
+        Here you can find collections of archives, photographs and rare books. There is a state-of-the-art gallery about space.
+      </p>
+    </div>
+  </div>
 </main>
