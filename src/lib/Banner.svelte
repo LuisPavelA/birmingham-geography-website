@@ -1,7 +1,7 @@
 
 <style>
     #banner {
-        background-image: url("banner.jpg");
+        background-image: url("/banner.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
