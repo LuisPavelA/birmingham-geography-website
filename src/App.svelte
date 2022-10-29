@@ -5,7 +5,7 @@
 <main class="bg-[#080808]">
   <Banner></Banner>
   
-  <div class='p-24 md:flex justify-center items-center'>
+  <div class='px-4 py-24 md:flex justify-center items-center'>
     <div class='md:w-6/12 w-full'>
       <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
         Jewellery Quarter
@@ -19,7 +19,7 @@
     </div>
   </div>
 
-  <div class='p-24 md:flex justify-center items-center'>
+  <div class='px-4 py-24 md:flex justify-center items-center'>
     <div class='md:mr-20'>
       <img src="/balti-triangle.png" alt="Playa" class="rounded-lg h-96" />
     </div>
@@ -33,7 +33,7 @@
     </div>
   </div>
 
-  <div class='p-24 md:flex justify-center items-center'>
+  <div class='px-4 py-24 md:flex justify-center items-center'>
     <div class='md:w-6/12 w-full'>
       <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
         Bullring
@@ -47,7 +47,7 @@
     </div>
   </div>
 
-  <div class='p-24 md:flex justify-center items-center'>
+  <div class='px-4 py-24 md:flex justify-center items-center'>
     <div class='md:mr-20'>
       <img src="/birmingham-library.jpg" alt="Playa" class="rounded-lg h-96" />
     </div>
@@ -61,7 +61,7 @@
     </div>
   </div>
 
-  <div class='p-24 md:flex justify-center items-center'>
+  <div class='px-4 py-24 md:flex justify-center items-center'>
     <div class='md:w-6/12 w-full'>
       <h1 class='text-white text-5xl underline mb-5 decoration-sky-400'>
         Cadbury's Chocolate Factory
@@ -75,7 +75,7 @@
     </div>
   </div>
 
-  <div class='p-24 md:flex justify-center items-center'>
+  <div class='px-4 py-24 md:flex justify-center items-center'>
     <div class='md:mr-20'>
       <img src="/birmingham-canals.jpg" alt="Playa" class="rounded-lg h-96" />
     </div>
