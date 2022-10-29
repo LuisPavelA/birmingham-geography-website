@@ -10,5 +10,5 @@
 </style>
 
 <section id="banner" class="h-96 flex items-center justify-center">
-    <h1 class="text-7xl text-white font-extrabold">Birmingham</h1>
+    <h1 class="text-5xl text-white font-extrabold">Birmingham</h1>
 </section>
