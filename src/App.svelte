@@ -89,9 +89,6 @@
     </div>
   </div>
   <footer class='p-4 align-center items-center text-center bg-black'>
-    <img src="/gearz.png" alt="Gearz Logo" class="h-24 inline my-5">
-    <a href="https://twitter.com/GearzTeam" target="_blank" rel="noreferrer">
-      <h1 class='text-white text-3xl mb-5 font-bold'>Made by Gearz Studios</h1>
-    </a>
+     <h1 class='text-white text-3xl mb-5 font-bold'>Made by Luis Pavel</h1>
   </footer>
 </main>
