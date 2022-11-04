@@ -89,6 +89,6 @@
     </div>
   </div>
   <footer class='p-4 align-center items-center text-center bg-black'>
-     <h1 class='text-white text-3xl mb-5 font-bold'>Made by Luis Pavel</h1>
+     <h1 class='text-white text-3xl font-bold'>Made by Luis Pavel</h1>
   </footer>
 </main>
